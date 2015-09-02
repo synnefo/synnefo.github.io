@@ -3,12 +3,22 @@
     
     <sitemap>
         <loc>http://synnefo.github.io/post-sitemap.xml</loc>
-        <lastmod>2015-09-02T05:31:12.058Z</lastmod>
+        <lastmod>2015-09-02T06:16:58.248Z</lastmod>
+    </sitemap>
+    
+    <sitemap>
+        <loc>http://synnefo.github.io/page-sitemap.xml</loc>
+        <lastmod>2015-09-02T06:27:16.179Z</lastmod>
+    </sitemap>
+    
+    <sitemap>
+        <loc>http://synnefo.github.io/category-sitemap.xml</loc>
+        <lastmod>2015-09-02T06:16:58.248Z</lastmod>
     </sitemap>
     
     <sitemap>
         <loc>http://synnefo.github.io/tag-sitemap.xml</loc>
-        <lastmod>2015-09-02T05:31:12.058Z</lastmod>
+        <lastmod>2015-09-02T06:16:58.248Z</lastmod>
     </sitemap>
     
 </sitemapindex>
