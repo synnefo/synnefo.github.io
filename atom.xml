@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Synnefog]]></title>
+  <title><![CDATA[Synnefo's Life]]></title>
   <subtitle><![CDATA[Just a simple blog for life.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://synnefo.github.io/"/>
