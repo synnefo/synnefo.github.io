@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://synnefo.github.io/tags/index.html</loc>
+        <lastmod>2016-02-28T04:44:07.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://synnefo.github.io/404.html</loc>
         <lastmod>2015-09-02T06:27:16.179Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -23,13 +30,6 @@
     <url>
         <loc>http://synnefo.github.io/categories/index.html</loc>
         <lastmod>2015-09-02T06:25:14.633Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://synnefo.github.io/tags/index.html</loc>
-        <lastmod>2015-09-02T06:22:51.761Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
